@@ -7,4 +7,8 @@ matplotlib
 prettytable
 scikit-learn
 mlxtend
+syllables
+seaborn
 Django
+python-dotenv
+fasttext-wheel
