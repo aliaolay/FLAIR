@@ -7,3 +7,4 @@ matplotlib
 prettytable
 scikit-learn
 mlxtend
+Django
