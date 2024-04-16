@@ -48,8 +48,10 @@ Enter. Wait for all installations to complete.
 2. Folder: flair
 • This folder contains the Django project to be ran in order to access the web
 application for end users.
-• To run the application, ensure that your current directory is set to this folder, then 
-enter the following command: python manage.py runserver
+• Download the following file into this folder in order for word embeddings to work:
+'https://drive.google.com/file/d/1FkoX0vQ-ICyF5UfA2jffPOJCmYV8xEPA/view?usp=sharing'
+• Once all packages are installed and all needed files are downloaded, to run the application, 
+ensure that your current directory is set to this folder, then enter the following command: python manage.py runserver
 • After successfully starting the application, you may access it through 'http://localhost/'
 or 'http://127.0.0.1/' on your web browser.
 
